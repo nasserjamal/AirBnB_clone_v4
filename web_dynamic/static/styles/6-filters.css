@@ -101,3 +101,17 @@ button:hover {
 .locations:hover .popover {
     visibility: visible;
 }
+
+.locations:hover .popover {
+    display: block;
+}
+
+.amenities:hover .popover {
+    display: block;
+}
+
+input[type=checkbox] {
+    margin-right: 10px;
+    position: relative;
+    float: left;
+}

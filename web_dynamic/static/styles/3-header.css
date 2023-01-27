@@ -9,3 +9,16 @@ header .logo {
     left: 20px;
     height: 100%;
 }
+
+header div {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: #CCCCCC;
+    float: right;
+    margin: 15px 30px 15px 0;
+}
+
+.available {
+    background-color: #FF545F;
+}
